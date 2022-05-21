@@ -37,7 +37,7 @@ Para o projeto em produção
   <li>Flask;</li>
   <li>Scikit-learn;</li>
 </ul>
---------
+<hr>
 <h3>Utilização</h3>
 <p>Todos os arquivos que você precisa para entender este projeto estão neste repositório, com exceção dos dados! Devido ao tamanho, foi preciso hospeda-los em um site externo para ficar disponível. Caso queira replicar este projeto e queira utilizar os dados aqui presentes, pode baixar estes através deste <a href="http://www.whitedisplay.com/">link</a>.</p>
 <p>Caso queira a documentação da qual foi utilizada para apoiar este projeto você pode acessar neste notion <a href="http://www.whitedisplay.com/">aqui</a>.</p>
