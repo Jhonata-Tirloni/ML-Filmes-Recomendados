@@ -1,5 +1,4 @@
 pandas
 streamlit
 requests
-pickle
-joblib
+joblib>=1.0.1
