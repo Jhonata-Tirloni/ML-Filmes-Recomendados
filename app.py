@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 import requests
-import joblib
+import pickle
 
 def get_poster(movie_id):
     url = "https://api.themoviedb.org/3/movie/{}?api_key=5b23ce0eeb95b91e1fae905d65606841&language=en-US".format(movie_id)
@@ -24,8 +24,8 @@ def recommendation(movie):
     
     return recommended_movies_name, recommended_movies_poster
 
-dict_filmes = joblib.load('lista_filmes.pkl')
-similarity = joblib.load('similarity.pkl')
+dict_filmes = pickle.load('lista_filmes.pkl', 'rb')
+similarity = pickle.load('similarity.pkl', 'rb')
 filmes = pd.DataFrame(dict_filmes)
 movie_list = filmes['title'].values
 
