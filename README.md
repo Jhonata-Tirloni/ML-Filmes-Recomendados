@@ -2,9 +2,12 @@
 <img style="width: 100%; height: 400px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/debo8je-1dc27c90-c1b7-4d88-ba2e-f5e06dab2cb5.jpg/v1/fill/w_1192,h_670,q_70,strp/2021_movie_posters_by_thekingblader995_debo8je-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGVibzhqZS0xZGMyN2M5MC1jMWI3LTRkODgtYmEyZS1mNWUwNmRhYjJjYjUuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ivry10p0hjCIWNMvcVMQrp-nCwNg2pqHzjqLHSEAASw"/>
 
 <h1>Recomendação de Filmes</h1>
-<p style="font-size:8px;"><i>Machine Learning Algorithm</i></p>
+<p style="font-size:8px;">Machine Learning Algorithm</p>
+<p style="font-size:6px;"><i>Clique no badge do streamlit abaixo e acesse agora!</i></p>
+<p style="font-size:6px;"><i>Click on the streamlit badge below and access now!</i></p>
 </div>
 
+![Poject link](https://camo.githubusercontent.com/8db6f323d631964e4fb9fb9718f8f5288cbce522ddc68d9f8e405630dc69e4e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53747265616d6c69742d4646344234423f7374796c653d666f722d7468652d6261646765266c6f676f3d53747265616d6c6974266c6f676f436f6c6f723d7768697465)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -16,7 +19,7 @@
 
 
 <h1>Link de acesso</h1>
-## in progress ##
+https://jhonata-tirloni-machinelearning-recomendacao-filmes-app-3syt37.streamlitapp.com/
 
 <h1>Sobre o projeto</h1>
 <p>Este é um projeto completo de ciência de dados que, através de levantamento de dados utiliza um algoritmo de machine learning capaz de identificar o coseno de similaridade dos filmes através de tags (estas são informações como atores no filme, diretor, categorias do filme e por ai vai). Os dados são puxados através de uma api do TheMovieDB e alguns dados são tratados de datasets do Kaggle. Outro ponto é que temos dados dos filmes de 2018 a 2022, para ser mais abrangente! (bem mais de 8 mil registros de filmes, é filme pra caramba!). Também aqui incluso estão algumas informações e insights interessantes na parte de exploraço de dados! De uma olhada por lá tamb</p>
